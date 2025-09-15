@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.1">
+  <diagram name="第 1 页" id="YOJCw0pqZY9LJ1ZUPbfJ">
+    <mxGraphModel dx="1198" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="70" y="240" width="640" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-8" value="管理后台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-10" value="用户客户端" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="70" y="370" width="640" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-12" value="防火墙" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="100" y="380" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-13" value="nginx集群" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="70" y="505" width="650" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-15" value="底层能力/技术栈&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Spring Boot&lt;/div&gt;&lt;div&gt;Spring JPA&lt;/div&gt;&lt;div&gt;Logback&lt;/div&gt;&lt;div&gt;JDK17&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="100" y="520" width="120" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="520" width="380" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-17" value="后端实例re&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;plica1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="320" y="535" width="150" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-24" value="后端实例re&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;plica2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="320" y="575" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-25" value="后端实例re&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;plica3&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="320" y="615" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-26" value="..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="320" y="655" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-27" value="后端能力&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;解析应用&lt;/div&gt;&lt;div&gt;权限控制&lt;/div&gt;&lt;div&gt;日志存档&lt;/div&gt;&lt;div&gt;环境隔离&lt;/div&gt;&lt;div&gt;存储包&lt;/div&gt;&lt;div&gt;删除包&lt;/div&gt;&lt;div&gt;下载链接&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="510" y="535" width="130" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-30" value="用户层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="10" y="265" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-31" value="网关层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="10" y="395" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-32" value="服务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="70" y="750" width="640" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-34" value="LocalStore&lt;div&gt;本地临时解包&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="100" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-35" value="OceanBase&lt;div&gt;关系型数据持久化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-36" value="Redis集群&lt;div&gt;缓存/分布式锁&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="380" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-37" value="S3服务&lt;div&gt;包的存储&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="540" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-39" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;CDN&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SSO单点服务&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;日志采集&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ESB&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="770" y="507.5" width="100" height="322.5" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-40" value="持久化层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Z9Gxua4jTXrJfAIkXn-41" value="系统赋能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="780" y="510" width="70" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
